@@ -1,0 +1,19 @@
+{
+	"source": "builtin",
+	"applications": [
+		{
+			"app_key": "i5ucc.randomnumberosc",
+			"launch_type": "binary",
+			"binary_path_windows": "./RandomNumber_OSC_NoConsole.exe",
+			"is_dashboard_overlay": true,
+			"action_manifest_path": "./config.json",
+
+			"strings": {
+				"en_us": {
+					"name": "RandomNumber_OSC",
+					"description": "RandomNumber_OSC: Sends random numbers via OSC"
+				}
+			}
+		}
+	]
+}

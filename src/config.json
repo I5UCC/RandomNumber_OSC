@@ -1,0 +1,25 @@
+{
+    "IP": "127.0.0.1",
+    "Port": 9000,
+    "Parameters": [
+        {
+            "Name": "Random1",
+            "Type": "float",
+            "Min": 0.0,
+            "Max": 1.0,
+            "Interval": 0.1
+        },
+        {
+            "Name": "Random2",
+            "Type": "int",
+            "Min": 0,
+            "Max": 255,
+            "Interval": 0.1
+        },
+        {
+            "Name": "Random3",
+            "Type": "bool",
+            "Interval": 0.1
+        }
+    ]
+}
