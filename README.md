@@ -2,7 +2,7 @@
 
 Just sending some random Numbers to over OSC, with a configurable Interval.
 
-The config.json file contains a `Parameters` array that contains all of the parameters sent. You can add or remove as much as you need.
+The config.json file contains a `Parameters` array that contains all of the parameters sent. You can add or remove as many as you need.
 
 ```
 "Parameters": [
